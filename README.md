@@ -1,4 +1,4 @@
-# api-ai-facebook
+# wirechatAI
 Facebook bot sources for Api.ai integration
 
 ## Deploy with Heroku
